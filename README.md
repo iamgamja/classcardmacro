@@ -1,5 +1,12 @@
 # classcardmacro
 
+⚠️ **주위!** 컴퓨터에서만 가능합니다
+
+<details>
+  <summary>저는 폰인데요</summary>
+  알빠임?
+</details>
+
 ## 다운로드 방법
 
 1. 회오리 들어가십시오
