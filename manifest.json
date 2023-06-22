@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "classcardmacro",
+  "description": "classcardmacro",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "icons": {
+    "128": "128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.classcard.net/*/*"],
+      "js": ["contentscript.js"]
+    }
+  ]
+}
