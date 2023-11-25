@@ -190,14 +190,14 @@ window.addEventListener(
         const count = parseInt(
           document
             .querySelector(
-              `body > div:nth-child(6) > div > div.text-center > div > span.current-quest-num`
+              `#wrapper-test > div > div.layer.test-layer > div.text-center.p-b-sm > div > span.current-quest-num`
             )
             .textContent.trim()
         );
         const totalcount = parseInt(
           document
             .querySelector(
-              `body > div:nth-child(6) > div > div.text-center > div > span.text-gray > span`
+              `#wrapper-test > div > div.layer.test-layer > div.text-center.p-b-sm > div > span.text-gray > span`
             )
             .textContent.trim()
         );
